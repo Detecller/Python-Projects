@@ -1,6 +1,3 @@
-#Winston Pawitra Lystanto
-#231763R/AA2303
-
 #Run in command prompt for better results (os.system('cls') may not work properly in some interpreters)
 #Install the necessary modules before running the program.
 
